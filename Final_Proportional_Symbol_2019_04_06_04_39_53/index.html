@@ -1,0 +1,131 @@
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <title>Display a map</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <script src="mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css" rel="stylesheet">
+   <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    <style type="text/css">
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    h2,
+    h3 {
+      margin: 10px;
+      font-size: 1.2em;
+    }
+    h3 {
+      font-size: 1em;
+    }
+    p {
+      font-size: 0.85em;
+      margin: 10px;
+      text-align: left;
+    }
+    /**
+    * Create a position for the map
+    * on the page */
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+    /**
+    * Set rules for how the map overlays
+    * (information box and legend) will be displayed
+    * on the page. */
+    .map-overlay {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      background: rgba(255, 255, 255, 0.8);
+      margin-right: 20px;
+      font-family: Arial, sans-serif;
+      overflow: auto;
+      border-radius: 3px;
+    }
+    #features {
+      top: 0;
+      height: 120px;
+      margin-top: 20px;
+      width: 250px;
+    }
+    #legend {
+      padding: 10px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+      line-height: 18px;
+      height: 65px;
+      margin-bottom: 50px;
+      width: 100px;
+    }
+    .legend-key {
+      display: inline-block;
+      border-radius: 20%;
+      width: 10px;
+      height: 10px;
+      margin-right: 5px;
+    }
+    </style>
+    </head>
+    <body>
+  
+
+
+
+<div id="map"></div>
+<div class="map-overlay" id="features"><h2>British Columbia's Population Density</h2><div id="pd"><p>Hover over a poopulation center!</p></div></div>
+<div class="map-overlay" id="legend"></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoidmlra2lqaWFuZyIsImEiOiJjanNvNG5zM2owMHdxNDNxa2I3M2pwa3k2In0.rCiEcyTHOXRFEv4lBsJD-g';
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/vikkijiang/cjthnn48k10o31fmqj8mqgy05',
+  center: [-120.847040, 53.675527],
+  zoom: 3.8
+});
+map.on('load', function() {
+    // make a pointer cursor
+    map.getCanvas().style.cursor = 'default';
+    // make a pointer cursor
+    map.getCanvas().style.cursor = 'default';
+  var layers = ['<1,000', '29,999', '99,999', '631,486'];
+  var colors = ['#bc720b', '#f7b21d', '#fae180', '#fafaa3'];
+    // create legend
+    for (i=0; i<layers.length; i++) {
+        var layer = layers[i];
+        var color = colors[i];
+        var item = document.createElement('div');
+        var key = document.createElement('span');
+        key.className = 'legend-key';
+        key.style.backgroundColor = color;
+        var value = document.createElement('span');
+        value.innerHTML = layer;
+        item.appendChild(key);
+        item.appendChild(value);
+        legend.appendChild(item);
+    }
+    // change info window on hover
+    map.on('mousemove', function (e) {
+        var features = map.queryRenderedFeatures(e.point, {
+            layers: ['econ-census-with-lat-long-3-dwj9ny']
+        });
+        if(features.length > 0) {
+            document.getElementById('pd').innerHTML =
+            "<h3><strong>" + features[0].properties.POP_TOTAL +
+            "</strong></h3><p><strong><em>" +
+            features[0].properties.CNSS_SBDVM +
+            "</strong></em></p>";
+        } else {
+            document.getElementById('pd').innerHTML = '<p>Hover over a town!</p>';
+        }
+});
+});
+</script>
+
+
+
+</body></html>
