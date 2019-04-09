@@ -11,22 +11,33 @@ password: Greyhound2019
 ### Background
 Greyhound Canada is ending its passenger bus and freight services in Alberta, Saskatchewan and Manitoba, and cancelling all but one route in B.C. -- a U.S. run service between Vancouver and Seattle. "This decision is regretful and we sympathize with the fact that many small towns are going to lose service, but simply put, the issue that we have seen is the routes in rural parts to Canada -- specifically Western Canada -- are just not sustainable anymore."
 
+<img width="770" alt="Screen Shot 2019-04-09 at 2 27 07 PM" src="https://user-images.githubusercontent.com/46465672/55836543-aab37e00-5ad3-11e9-9bbc-e62112fe58cc.png">
+
 The social impacts of relying on private companies to provide important public services are profound and have real human consequences in British Columbia. An example of these risks is seen in the closure of Greyhound bus routes in BC: first the closure of northern routes and then the complete shutdown of their entire network. Now almost two years later, we can examine how the province has recovered through a mix of public and private services, in addition to identifying areas still in urgent need of transportation. A compelling story, this event disproportionately affected the poor and first nations communities.
 
 
 Nonsocial transient spaces are a privatized public space—a public zone where people prefer to be left alone. The closure of Greyhound bus route which bring impacts on the social sustainability, economic factors. For example, British Columbia’s Missing Women Commission of Inquiry issued its final report in 2012, the provincial government was urged to “develop and implement an enhanced public transit system to provide a safer travel option connecting Northern communities, particularly along Highway 16” from Prince George to Prince Rupert —perhaps better known as the Highway of Tears, so named for all of the women, many Indigenous, who have gone missing or were murdered along that stretch of highway. With a lack of public transportation along this highway to connect more remote communities and First Nations to urban areas, many of those women had been forced to rely on hitchhiking, which put them at risk to dangerous men.
 
 ### Population Proportional Symbols
+
+<img width="1115" alt="Screen Shot 2019-04-09 at 2 29 20 PM" src="https://user-images.githubusercontent.com/46465672/55836604-e3ebee00-5ad3-11e9-84d0-c6c4218b8beb.png">
+
 In this proportional symbols map, we are able to identify the small communities in need. As expected, the highest population centres are concentrated in Southern BC, where there are already a high level of connectivity. The smaller communities are spread out as we move to Northern BC.
 
 Start by clicking the map to enable the interactivity function. You can hover over each population centre to see more information regarding the city or town.
 
 ### Hyperconnected Vancouver
+
+<img width="995" alt="Screen Shot 2019-04-09 at 2 30 44 PM" src="https://user-images.githubusercontent.com/46465672/55836681-14cc2300-5ad4-11e9-88a0-6e40bc13798a.png">
+
 Compare to the provincial level, Metro Vancouver area is hyperconnected. That being said, access to healthcare is not guaranteed. While it is mandatory for everyone in BC to be serviced by MSP, the continuous influx of immigrants mean there are still a number of people that do not have access to healthcare.
 
 With the Sanctuary City Vancouver initiative, they outlined one of their principles being "Access to basic and essential services will be determined by need and not migration status". Regardless of a person's immigration status, this initiative sets out to provide health services, food security, dignified housing, public transit, public safety, legal aid, and municipal services for everyone.
 
 ### Safety and Accessibility in Northern BC
+
+<img width="871" alt="Screen Shot 2019-04-09 at 2 31 59 PM" src="https://user-images.githubusercontent.com/46465672/55836740-3fb67700-5ad4-11e9-93a7-ab89aeaf1ec4.png">
+
 'The Highway of Tears': Safety and Accessibility concerns in Northern BC
 Public and non-profits partnered to to address service gaps in anticipation of the Greyhound closure:
 Launch: Service Provider (# of routes)
@@ -42,6 +53,9 @@ Launch: Service Provider (# of routes)
       Oct 31: Greyhound cancellations
       
 ### British Columbia Wide Health services
+
+<img width="932" alt="Screen Shot 2019-04-09 at 2 33 01 PM" src="https://user-images.githubusercontent.com/46465672/55836798-6674ad80-5ad4-11e9-9ac9-6b22f2e90901.png">
+
 Greyhound bus cuts raise health and safety concerns among indigenous groups. Indigenous groups and advocates are voicing their concern about impacts the cut to Greyhound bus services in Western Canada will have on safety and access to health services. The loss of bus service will have significantly impact on First Nations communities, especially for those people who don’t own a vehicle or have a driver’s licence. As some people who own a vehicle often opt to take Greyhound in the winter months when road conditions are dangerous.
 The Northern Health Authority has a bus that allows patients to make appointments. It cannot successfully link rural residents to all the services they need, nor does it allow them to visit relatives or purchase equally important groceries. Overall health. The Northern Health Authority does provide transit options for patients and their families, but advocates say it cannot meet the full transportation needs of the communities in the area.
 The elimination of Greyhound services in Northern B.C. is affect community members trying to access services. People who live in the northern communities rely on bus service to get to urban areas.
