@@ -26,7 +26,7 @@ In this proportional symbols map, we are able to identify the small communities 
 
 Start by clicking the map to enable the interactivity function. You can hover over each population centre to see more information regarding the city or town.
 
-<img width="Example Network" alt="https://github.com/qwerty-sequoia/GEOB-472-Final-Project-GREYHOUND/blob/master/Example%20network.PNG">
+<img width="1115" alt="https://github.com/qwerty-sequoia/GEOB-472-Final-Project-GREYHOUND/blob/master/Example%20network.PNG">
 
 As shown, even before the Greyhound Network illustrated in this interactive map left BC most communities were already disconnected. They remain disconnected today, but previously they didn't need to travel too far before reaching a Greyhound bus stop, where long term parking solutions were very common. The network itself consisted of 16 different routes before they began to close, first in Northern BC and Vancouver Island then in all of Western Canada.
 
