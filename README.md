@@ -1,10 +1,5 @@
-# GEOB-472-Final-Project
-**wooooooo**
+### GEOB-472-Final-Project
 
-Storymap sign in information:
-username: greyhoundsquad
-email: nicoleleekauer97@gmail.com
-password: Greyhound2019
 
 ### ESRI Story Map link: 
 
