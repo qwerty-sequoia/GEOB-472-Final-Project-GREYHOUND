@@ -21,6 +21,7 @@ Throughout this story, please use the "Explore" Button on the bottom right of ea
 ### All Municipalities in BC & The Closed Greyhound Network
 
 <img width="1115" alt="Screen Shot 2019-04-09 at 2 29 20 PM" src="https://user-images.githubusercontent.com/46465672/55836604-e3ebee00-5ad3-11e9-84d0-c6c4218b8beb.png">
+https://editor.p5js.org/wpember/embed/U_zoFBFqP
 
 In this proportional symbols map, we are able to identify the small communities in need. As expected, the highest population centres are concentrated in Southern BC, where there are already a high level of connectivity. The smaller communities are spread out as we move to Northern BC.
 
@@ -37,6 +38,7 @@ As we would imagine, transportation is critically important for so many reasons;
 ### Health service without networks
 
 <img width="995" alt="Screen Shot 2019-04-09 at 2 30 44 PM" src="https://user-images.githubusercontent.com/46465672/55836681-14cc2300-5ad4-11e9-88a0-6e40bc13798a.png">
+https://editor.p5js.org/nicoleleekauer/embed/WV6xdK8unO?fbclid=IwAR2DdOLWE2F0gD-O-G0fA49SOKUHsKLDNtnSNEtY5q5N3pZevJxD94_BzLI
 
 Greyhound bus cuts raise health and safety concerns among rural communities, especially indigenous groups. Indigenous groups and advocates are voicing their concern about impacts the cut to Greyhound bus services in Western Canada will have on safety and access to health services. The loss of bus service will have a significant impact, especially for those people who don’t own a vehicle or have a driver’s license.
 
@@ -53,6 +55,7 @@ Despite the ease of connection in Vancouver, the continuous influx of migrants m
 ### Safety and Accessibility in Northern BC
 
 <img width="871" alt="Screen Shot 2019-04-09 at 2 31 59 PM" src="https://user-images.githubusercontent.com/46465672/55836740-3fb67700-5ad4-11e9-93a7-ab89aeaf1ec4.png">
+https://editor.p5js.org/qwerty-sequoia/full/IlaND9_UOR
 
 The Highway of Tears represents a deadly area for hitchhikers, especially women, as mentioned in the introduction. This case study examines the needs of the Highway, and how they have been filled in the wake of Greyhound's closure. Please scroll to view these insights, and feel free to interact with the map behind these infoboxes to use a timeline and watch as replacement services begin operations even as Greyhound ends theirs. 
 
